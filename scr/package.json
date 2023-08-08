@@ -1,0 +1,16 @@
+{
+  "name": "entrega_tres",
+  "version": "1.0.0",
+  "description": "Servidor basado en express",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
