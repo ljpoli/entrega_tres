@@ -38,7 +38,6 @@ import fs from 'fs';
   getProduct() {
     return this.products;
   }
-
   getProductById(id) {
     const product = this.products.find((p) => p.id === id);
     if (!product) {

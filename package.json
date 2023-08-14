@@ -2,9 +2,11 @@
   "name": "entrega_tres",
   "version": "1.0.0",
   "description": "Servidor basado en express",
-  "main": "app.mjs",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./scr/app.js",
+    "dev": "node --watch app.js"
   },
   "keywords": [],
   "author": "Lucas",

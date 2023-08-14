@@ -1,70 +1,70 @@
 [
-    {
-      "id": 1,
-      "title": "productA",
-      "description": "aa",
-      "price": 500,
-      "thumbnail": "url",
-      "code": "ab111",
-      "stock": 500
-    },
-    {
-      "id": 2,
-      "title": "productB",
-      "description": "aa",
-      "price": 800,
-      "thumbnail": "url",
-      "code": "ab222",
-      "stock": 500
-    },
-    {
-      "id": 3,
-      "title": "productC",
-      "description": "ccc",
-      "price": 1000,
-      "thumbnail": "url",
-      "code": "ab333",
-      "stock": 500
-    },
-    {
-      "id": 4,
-      "title": "productD",
-      "description": "dd",
-      "price": 500,
-      "thumbnail": "url",
-      "code": "ab444",
-      "stock": 500
-    },
-    {
-      "id": 5,
-      "title": "productE",
-      "description": "ee",
-      "price": 800,
-      "thumbnail": "url",
-      "code": "ab555",
-      "stock": 500
-    },
-    {
-      "id": 6,
-      "title": "productF",
-      "description": "fff",
-      "price": 1000,
-      "thumbnail": "url",
-      "code": "ab666",
-      "stock": 500
-    },
-    {
-      "id": 7,
-      "title": "productG",
-      "description": "gg",
-      "price": 1000,
-      "thumbnail": "url",
-      "code": "ab888",
-      "stock": 500
-     },       
-    {  
+  {
+    "id": 11,
+    "title": "Musculosas",
+    "description": "Este es un nuevo producto",
+    "price": 1500,
+    "thumbnail": "url",
+    "code": "NP234",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "Pantalones",
+    "description": "aa",
+    "price": 800,
+    "thumbnail": "url",
+    "code": "ab222",
+    "stock": 500
+  },
+  {
+    "id": 3,
+    "title": "Polleras",
+    "description": "ccc",
+    "price": 1000,
+    "thumbnail": "url",
+    "code": "ab333",
+    "stock": 500
+  },
+  {
+    "id": 4,
+    "title": "Buzos",
+    "description": "dd",
+    "price": 500,
+    "thumbnail": "url",
+    "code": "ab444",
+    "stock": 500
+  },
+  {
+    "id": 5,
+    "title": "Medias",
+    "description": "ee",
+    "price": 800,
+    "thumbnail": "url",
+    "code": "ab555",
+    "stock": 500
+  },
+  {
+    "id": 6,
+    "title": "Camperas",
+    "description": "fff",
+    "price": 1000,
+    "thumbnail": "url",
+    "code": "ab666",
+    "stock": 500
+  },
+  {
+    "id": 7,
+    "title": "Sweters",
+    "description": "gg",
+    "price": 1000,
+    "thumbnail": "url",
+    "code": "ab888",
+    "stock": 500
+  },
+  {
     "id": 8,
-    "title": "productH",
+    "title": "Zapatillas",
     "description": "hh",
     "price": 800,
     "thumbnail": "url",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "title": "productI",
+    "title": "Sombreros",
     "description": "iii",
     "price": 1000,
     "thumbnail": "url",
@@ -82,11 +82,29 @@
   },
   {
     "id": 10,
-    "title": "productJ",
+    "title": "Bufandas",
     "description": "jj",
     "price": 1000,
     "thumbnail": "url",
     "code": "ab1111",
     "stock": 500
+  },
+  {
+    "id": 12,
+    "title": "Chalecos",
+    "description": "Este es un nuevo producto",
+    "price": 1600,
+    "thumbnail": "url",
+    "code": "NP456",
+    "stock": 50
+  },
+  {
+    "id": 1,
+    "title": "Remeras",
+    "description": "bb",
+    "price": 1600,
+    "thumbnail": "url",
+    "code": "ab111",
+    "stock": 50
   }
-  ]
+]

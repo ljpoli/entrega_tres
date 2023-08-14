@@ -8,7 +8,7 @@ app.use(express.urlencoded({ extended: true} ));
 
 const port = 8080;
 
-const productManager = new ProductManager(`C:/Users/user1/Desktop/entrega_tres/scr/productos.json`);
+const productManager = new ProductManager(`./scr/productos.json`);
 
 
 app.get('/', (req, res) => {
@@ -22,7 +22,7 @@ app.get('/products', async (req, res) => {
 
     if (limit) {
       const limitedProducts = products.slice(0, parseInt(limit, 10));
-      return res.json(limitedProducts);
+      return res.json({status: "Success", limitedProducts});
     }
 
     res.json(products);
